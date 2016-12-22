@@ -1,5 +1,6 @@
 # Sitecore.Support.106439
-Fix the issue with loading items in the &#8220;Multilist with Search&#8221; field when using the &#8220;Field Editor&#8221; dialog box from &#8220;Experience Editor&#8221; or &#8220;User Manager&#8221;
+Items are not loaded in the `Multilist with Search` field when using the `Field Editor` dialog box from `Experience Editor` or `User Manager`.
+This patch fixes the described behavior.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.106439/blob/master/LICENSE).  
