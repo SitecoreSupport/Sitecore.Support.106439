@@ -1,5 +1,5 @@
 # Sitecore.Support.106439
-Items are not loaded in the `Multilist with Search` field when using the `Field Editor` dialog box from `Experience Editor` or `User Manager`.
+Items are not loaded in the `Multilist with Search` field when using the `Field Editor` dialog box from `Experience Editor` or `User Manager`.<br/>
 This patch fixes the described behavior.
 
 ## License  
